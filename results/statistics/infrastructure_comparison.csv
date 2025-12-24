@@ -1,0 +1,4 @@
+Infrastructure,Mean_Velocity,Dublin_Baseline,Difference,Pct_Difference,Assessment
+Railways,-0.8764951321279556,-0.6733695062398263,-0.2,-30.2,More stable (less subsidence)
+Roads,-0.5326690211907165,-0.6733695062398263,0.14,20.9,Less stable (more subsidence)
+Harbour,-0.92578125,-0.6733695062398263,-0.25,-37.5,More stable (less subsidence)

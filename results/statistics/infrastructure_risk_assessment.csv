@@ -1,0 +1,4 @@
+Infrastructure,Mean_Velocity_mm/yr,Max_Velocity_mm/yr,Pct_Stable,Risk_Level,Recommended_Action
+Railways,-0.8764951321279556,1.9,96.38386648122392,LOW,Continue routine monitoring
+Roads,-0.5326690211907165,2.1,99.16750756811302,LOW,Continue routine monitoring
+Harbour,-0.92578125,1.1,95.3125,LOW,Continue routine monitoring
