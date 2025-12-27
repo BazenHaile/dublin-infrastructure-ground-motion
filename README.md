@@ -202,7 +202,7 @@ python scripts/create_maps.py
 **Project Type**: MSc Remote Sensing Portfolio Project  
 **Institution**: University College Dublin  
 **Program**: SAR/InSAR Remote Sensing  
-**Duration**: December 2024  
+**Duration**: December 2025  
 **Author**: Bazen Haile
 
 ---
@@ -259,7 +259,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 If you use this work, please cite:
 
 ```
-Haile, B. (2024). Dublin Infrastructure Ground Motion Analysis: 
+Haile, B. (2025). Dublin Infrastructure Ground Motion Analysis: 
 InSAR-based monitoring using EGMS satellite data (2019-2023). 
 GitHub repository: https://github.com/BazenHaile/dublin-infrastructure-ground-motion
 ```
