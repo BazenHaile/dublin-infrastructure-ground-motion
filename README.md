@@ -10,6 +10,8 @@
 
 This project analyzes ground motion patterns around Dublin's critical infrastructure using satellite-based Interferometric Synthetic Aperture Radar (InSAR) data from the European Ground Motion Service (EGMS). The analysis evaluates stability of railways, roads, and Dublin Port using 46,075 measurement points collected between 2019-2023.
 
+**Note on Data Relevance:** Ground motion is a slow geological process that occurs over years to decades. The velocity measurements from 2019-2023 represent long-term trends that remain relevant for current infrastructure assessment. Typical subsidence rates of ±1-2 mm/yr reflect stable, ongoing processes rather than sudden changes, making this analysis applicable for present-day infrastructure monitoring and planning.
+
 ### Key Features
 - ✅ Spatial analysis of infrastructure buffer zones
 - ✅ Statistical assessment of ground velocity patterns
