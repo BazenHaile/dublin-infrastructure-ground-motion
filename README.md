@@ -241,7 +241,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ---
 ## 📧 Contact
 
- **Bazen Haile**
+ **Bazen Amene**
 - GitHub: [@BazenHaile](https://github.com/BazenHaile)
 - LinkedIn: [Bazen Hilemelekot Amene](https://www.linkedin.com/in/bazenhilemelekotamene0877882085/)
 - Email: bazenhaileam@gmail.com
